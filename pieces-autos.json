@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "nom": "Crème hydratante",
+        "prix": 60,
+        "categorie": "Crème",
+        "image": "images/bioglow.jpg",
+        "description": "Hydrate et matifie le peau sensible !",
+        "disponibilite": true
+      },
+      {
+        "id": 2,
+        "nom": "Bain de douche",
+        "prix": 40,
+        "categorie": "Gel",
+        "image": "images/curology-blue.jpg",
+        "description": "Bain de douche parfumé hydrate et fraichie le peau pour homme",
+        "disponibilite": true
+      },
+      {
+        "id": 3,
+        "nom": "Huile de corps",
+        "prix": 5.49,
+        "categorie": "Huile Cosmétique",
+        "image": "images/huile-de-coprs.jpg",
+        "description": "huile hydratante pour tout type de peau",
+        "disponibilite": false
+      },
+      {
+        "id": 4,
+        "nom": "Huile nettoyant visage",
+        "prix": 9.6,
+        "categorie": "Huile Cosmétique",
+        "image": "images/huile-nettoyant.jpg",
+        "disponibilite": true
+      },
+      {
+        "id": 5,
+        "nom": "Pack maquillage luxe",
+        "prix": 29.1,
+        "image": "images/pack-maquillage.jpg",
+        "description": "Maquillage Bio pour tout type de peau avec parfum doux",
+        "disponibilite": true
+      },
+      {
+        "id": 1,
+        "nom": "Pack Ordinary",
+        "prix": 60,
+        "categorie": "Crème",
+        "image": "images/pack-ordinary.jpg",
+        "description": "Hydrate et matifie le peau sensible !",
+        "disponibilite": true
+      }
+]
