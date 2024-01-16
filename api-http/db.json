@@ -1,0 +1,217 @@
+{
+  "pieces": [
+    {
+      "id": 1,
+      "nom": "Crème hydratante",
+      "prix": 60,
+      "categorie": "Crème",
+      "image": "images/bioglow.jpg",
+      "description": "Hydrate et matifie le peau sensible !",
+      "disponibilite": true
+    },
+    {
+      "id": 2,
+      "nom": "Bain de douche",
+      "prix": 40,
+      "categorie": "Gel",
+      "image": "images/curology-blue.jpg",
+      "description": "Bain de douche parfumé hydrate et fraichie le peau pour homme",
+      "disponibilite": true
+    },
+    {
+      "id": 3,
+      "nom": "Huile de corps",
+      "prix": 5.49,
+      "categorie": "Huile Cosmétique",
+      "image": "images/huile-de-coprs.jpg",
+      "description": "huile hydratante pour tout type de peau",
+      "disponibilite": false
+    },
+    {
+      "id": 4,
+      "nom": "Huile nettoyant visage",
+      "prix": 9.6,
+      "categorie": "Huile Cosmétique",
+      "image": "images/huile-nettoyant.jpg",
+      "disponibilite": true
+    },
+    {
+      "id": 5,
+      "nom": "Pack maquillage luxe",
+      "prix": 29.1,
+      "image": "images/pack-maquillage.jpg",
+      "description": "Maquillage Bio pour tout type de peau avec parfum doux",
+      "disponibilite": true
+    },
+    {
+      "id": 1,
+      "nom": "Pack Ordinary",
+      "prix": 60,
+      "categorie": "Crème",
+      "image": "images/pack-ordinary.jpg",
+      "description": "Hydrate et matifie le peau sensible !",
+      "disponibilite": true
+    }
+  ],
+  "avis": [
+    {
+      "id": 1,
+      "pieceId": 1,
+      "utilisateur": "Kristen Larson",
+      "commentaire": "Illum natus nisi aut modi dignissimos.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 2,
+      "pieceId": 2,
+      "utilisateur": "Alberto Kessler",
+      "commentaire": "Aut facere ullam velit odio vero aut hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 3,
+      "pieceId": 3,
+      "utilisateur": "Shane Powlowski",
+      "commentaire": "Sint enim nesciunt laboriosam iusto aut.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 4,
+      "pieceId": 4,
+      "utilisateur": "Grace Effertz",
+      "commentaire": "Et aut laborum voluptas culpa ut omnis vel.",
+      "nbEtoiles": 2
+    },
+    {
+      "id": 5,
+      "pieceId": 5,
+      "utilisateur": "Blanche Hane",
+      "commentaire": "Totam incidunt voluptatibus optio excepturi.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 6,
+      "pieceId": 1,
+      "utilisateur": "Catherine Kihn",
+      "commentaire": "Non laborum ex recusandae voluptatem laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 7,
+      "pieceId": 2,
+      "utilisateur": "Jimmie Pfannerstill",
+      "commentaire": "Enim aut id ab corporis aut et rem.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 8,
+      "pieceId": 3,
+      "utilisateur": "Ms. Lydia Grady",
+      "commentaire": "Ipsum officia asperiores necessitatibus id quo laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 9,
+      "pieceId": 4,
+      "utilisateur": "Cynthia Leuschke",
+      "commentaire": "Ea dolores sed aut.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 10,
+      "pieceId": 5,
+      "utilisateur": "Fannie Osinski DVM",
+      "commentaire": "Non sed est alias ex et omnis dolorum corrupti alias.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 11,
+      "pieceId": 1,
+      "utilisateur": "Melinda Bergstrom",
+      "commentaire": "Voluptas deserunt odit.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 12,
+      "pieceId": 2,
+      "utilisateur": "Glen Bauch DVM",
+      "commentaire": "Harum consequatur in ex est itaque maxime consequuntur.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 13,
+      "pieceId": 3,
+      "utilisateur": "Melanie Fadel",
+      "commentaire": "Eos eum delectus sunt provident.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 14,
+      "pieceId": 4,
+      "utilisateur": "Amy Ernser",
+      "commentaire": "Sit enim velit esse dolor.",
+      "nbEtoiles": 1
+    },
+    {
+      "id": 15,
+      "pieceId": 5,
+      "utilisateur": "Toby Russel",
+      "commentaire": "Voluptate ex cum aut tenetur laborum est.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 16,
+      "pieceId": 1,
+      "utilisateur": "Frankie Ritchie",
+      "commentaire": "Dolore et explicabo et voluptas at aut saepe.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 17,
+      "pieceId": 2,
+      "utilisateur": "Priscilla Sporer",
+      "commentaire": "Enim quibusdam et ipsum voluptas est.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 18,
+      "pieceId": 3,
+      "utilisateur": "Adrian Cassin",
+      "commentaire": "Corrupti consequuntur deleniti voluptas eum officiis hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 19,
+      "pieceId": 4,
+      "utilisateur": "Nicolas Lesch",
+      "commentaire": "Esse numquam consequatur et sunt.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 20,
+      "pieceId": 5,
+      "utilisateur": "Hugo Block",
+      "commentaire": "Sint quidem quia ipsam quae.",
+      "nbEtoiles": 5
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "leila",
+      "commentaire": "bien",
+      "id": 21
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "leila",
+      "commentaire": "trés bien",
+      "id": 22
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "dalila",
+      "commentaire": "bien ",
+      "nbEtoiles": "4",
+      "id": 23
+    }
+  ]
+}
